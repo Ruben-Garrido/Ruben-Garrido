@@ -1,16 +1,33 @@
-### Hi there 👋
+<h1 align="center">¡Hola! Soy Rubén Garrido 👋</h1>
 
-<!--
-**Ruben-Garrido/Ruben-Garrido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Desarrollador Fullstack en constante aprendizaje 🚀
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 Sobre mí
+
+- 🌱 Actualmente profundizando en desarrollo Fullstack y CI y CD.
+- 🚀 Me apasiona crear proyectos reales y aprender buenas prácticas de software.
+- 📚 Interesado en arquitectura, patrones de diseño y código limpio.
+- 🎯 Objetivo: convertirme en un desarrollador Fullstack de alto nivel.
+
+---
+
+## 🛠️ Tecnologías
+
+```text
+Frontend: HTML | CSS | JavaScript | React
+Backend: Node.js | Express
+Bases de datos: PostgreSQL
+Herramientas: Git | GitHub |
